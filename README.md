@@ -8,6 +8,6 @@ Just a contractor's take-home interview; the interviewer is Chinese; he mentione
 
 I just uploaded Uber Questions.pdf today; in fact, I emailed Uber Questions.html to that person at <img width="163" alt="submitted time" src="https://user-images.githubusercontent.com/33749919/183723671-c7c3dc78-6be4-4238-be40-5ac0120686bf.png">
 
-Contents are the same with the files I committed in this repository, I just put them together. I just converted the html file to pdf file, and upload it to the github repository today.
+The contents are the same as the files I committed to this repository; I just put them together. I just converted the html file to a pdf file and uploaded it to the github repository today.
 
 
