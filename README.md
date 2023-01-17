@@ -1,7 +1,7 @@
 # uber_da_submit
 
 
-If the code in my GitHub repository is used for any inappropriate purposes, I reserve the right to pursue all losses incurred as a result.
+If the code in my GitHub repository is used for any inappropriate purposes, I reserve the right to pursue all losses caused by that.
 
 I have another public repository, Uber (previously, I committed my code to this repository, so the committed time in this repository should be earlier).
 
